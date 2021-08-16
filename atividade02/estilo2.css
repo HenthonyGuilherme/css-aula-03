@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+p{
+    font-style: italic;
+    text-transform: capitalize;
+}
